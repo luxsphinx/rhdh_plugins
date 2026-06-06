@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rhdh_plugins
+  annotations:
+    github.com/project-slug: luxsphinx/rhdh_plugins
+  labels:
+    tags: plugins
+spec:
+  type: other
+  lifecycle: development
+  owner: user:development/guest
