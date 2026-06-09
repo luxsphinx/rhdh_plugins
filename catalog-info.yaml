@@ -7,6 +7,6 @@ metadata:
   labels:
     tags: plugins
 spec:
-  type: other
+  type: component
   lifecycle: development
   owner: user:development/guest
